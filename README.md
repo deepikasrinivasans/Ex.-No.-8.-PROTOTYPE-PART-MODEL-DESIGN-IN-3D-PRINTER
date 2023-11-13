@@ -44,11 +44,9 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-
 ## Output:
-
-### Name:
-### Register Number:
-
+![empd1](https://github.com/deepikasrinivasans/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/119393935/0a8b3ed4-528e-4678-94df-6abc3d8c0891)
+### Name: DEEPIKA S
+### Register Number: 212222230028
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
